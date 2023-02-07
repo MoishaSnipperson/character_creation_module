@@ -1,4 +1,4 @@
-#test2
+#test3
         return (f'{char_name} нанёс противнику урон, равный '
                 f'{5 + randint(3, 5)}')
     if char_class == 'mage':
